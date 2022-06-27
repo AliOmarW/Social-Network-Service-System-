@@ -7,7 +7,7 @@ using System.IO;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
-// SSN  Project
+// SNS  Project.
 namespace Social_NetWork_Service
 {
     [Serializable]
